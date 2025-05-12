@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": "version1",
   "routingAlgorithm": "round-robin",
   "servers": [
     "http://localhost:5001",
