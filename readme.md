@@ -1,4 +1,4 @@
-# Load Balancer Project Description
+# Load Balancer
 
 ## Introduction
 
