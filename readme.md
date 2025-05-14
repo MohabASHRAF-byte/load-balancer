@@ -1,5 +1,4 @@
 # Load Balancer
-
 ## Introduction
 
 This project implements a load balancer in Python using Uvicorn, a high-performance ASGI server. The load balancer distributes incoming HTTP requests across multiple backend servers to improve the responsiveness, reliability, and scalability of applications. It has been tested to demonstrate significant performance improvements over a single server setup.
@@ -120,4 +119,4 @@ The load balancer demonstrates significant improvements over a single server:
 
 ## Conclusion
 
-This load balancer project effectively distributes HTTP requests across multiple backend servers, significantly enhancing application performance. Compared to a single server, the load balancer reduces response times, increases request throughput, and improves data transfer rates, as evidenced by Apache Bench testing. Built with Python and Uvicorn, it provides a practical solution for improving application scalability and reliability. Future enhancements may include API-based server management for more dynamic control. To fully document the implemented algorithms, please refer to the repository code.
+This load balancer project effectively distributes HTTP requests across multiple backend servers, significantly enhancing application performance. Compared to a single server, the load balancer reduces response times, increases request throughput, and improves data transfer rates, as evidenced by Apache Bench testing. Built with Python and Uvicorn, it provides a practical solution for improving application scalability and reliability. Future enhancements may include API-based server management for more dynamic control.
